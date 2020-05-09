@@ -6,10 +6,10 @@ Printing Fibonacci with fork()
 ### Description of Homework
 
 Sizden kullanıcıdan alınan sayının fibonacci serisindeki F n ve sum(F n ) değerlerini bulup<br>
-ekrana yazdıran bir C programı yazmanız beklenmektedir. <br>
-Ata işleminiz (parent process) kullanıcıdan ilgili sayıyı alıp,<br>
-çocuk işleme (child process) gönderecek,<br>
-çocuk işleminiz ise gelen sayıya göre fibonacci toplama işlemlerini yapacaktır.<br> 
+ekrana yazdıran bir C programı yazmanız beklenmektedir.
+Ata işleminiz (parent process) kullanıcıdan ilgili sayıyı alıp,
+çocuk işleme (child process) gönderecek,
+çocuk işleminiz ise gelen sayıya göre fibonacci toplama işlemlerini yapacaktır.
 Ata işleminiz çocuk işlemden gelen hesaplanmış F n ve sum(F n ) değerlerini ekrana yazacaktır.<br> 
 Veri alış verişinde pipe kullanmanız beklenmektedir. <br> Global değişken kullanılarak
 oluşturulan programlar değerlendirilmeyecektir. Yardımcı olması için doküman paylaşılmıştır.<br>
