@@ -26,7 +26,7 @@ Parent process print the sum value. I did this homework with using pipe. Have fu
 ```
 
 gcc fork.c
-> ./a.out
+./a.out
 
 ```
 
