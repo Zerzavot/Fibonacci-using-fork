@@ -23,15 +23,16 @@ Parent process print the sum value. I did this homework with using pipe. Have fu
 
 
 ### Build & Run
-> gcc fork.c
+```
+
+gcc fork.c
 > ./a.out
 
-### Requirements
 ```
-gcc
-Ubuntu OS
 
-```
+### Requirements
+> gcc
+> Ubuntu OS
 
 ### Result
 
